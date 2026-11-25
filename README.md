@@ -1,0 +1,1 @@
+# Dispensador_Automatico2026
