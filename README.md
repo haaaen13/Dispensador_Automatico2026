@@ -1,4 +1,4 @@
-El codigo se realizó con apoyo de la IA
+El codigo se realizó con apoyo de la IA, pero supervisado por humanos
 
 - Programación de hasta 4 porciones diarias.
 - Configuración de horarios y cantidades en gramos.
